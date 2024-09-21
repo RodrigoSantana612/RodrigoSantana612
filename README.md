@@ -7,19 +7,17 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
- </p>
-<h3 align="center">Passionate about data science and technology&#127470;&#127475</h3>
+
+<h3 align="center">Passionate about data science and technology &#127470;&#127475</h3>
 
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at data
+- 🔭 I’m available for working at data
 
-- 🌱 I’m currently Working at sofware
+- 🌱 I’m available for Working at sofware 
 
 - 🤝 I’m available for freelancing.
 
