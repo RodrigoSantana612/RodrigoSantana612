@@ -10,7 +10,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
  </p>
-<h3 align="center">Passionate about data science and technology &#127470;&#127475</h3>
+<h3 align="center">Passionate about data science and technology&#127470;&#127475</h3>
 
 
 <a target="_blank" align="center">
