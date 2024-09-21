@@ -8,8 +8,18 @@
 </p>
 
 
-<h3 align="center">Passionate about data science and technology &#127470;&#127475;</h3>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Emoji</title>
+</head>
+<body>
 
+    <h3 align="center">Passionate about data science and technology&#127470;&#127475;</h3>
+
+</body>
+</html>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
