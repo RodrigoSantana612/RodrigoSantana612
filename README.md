@@ -8,7 +8,7 @@
 </p>
 
 
-<h3 align="center">Passionate about data science and technology &#127470;&#127475</h3>
+<h3 align="center">Passionate about data science and technology &#127470;&#127475;</h3>
 
 
 <a target="_blank" align="center">
